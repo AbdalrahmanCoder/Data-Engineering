@@ -1,0 +1,14 @@
+*.csv
+*.csv.gz
+*.parquet
+
+.venv/
+venv/
+ENV/
+env/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.env
